@@ -1,0 +1,17 @@
+.migaleria{
+   padding: 0;
+   border-right: 5px;
+   margin: 0;
+}
+.ms-0 {
+  margin-left: 0 !important;
+ }
+ .me-0{
+    margin-right: 0 !important;
+ }
+ .ps-0{
+    padding-left: 0 !important;
+ }
+ .pe-0{
+    padding-right: 0 !important;
+ }
